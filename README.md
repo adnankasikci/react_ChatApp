@@ -1,7 +1,7 @@
 
 ## React ile Veritabanı Redis Aracılığıyla Sohbet Uygulaması
 
-React yaklaşımlarına aşinalık ve redis teknolojisini anlama.
+React yaklaşımlarına aşinalık ve redis teknolojisini anlamaktır.
 
 ### Proje Hakkında
 
